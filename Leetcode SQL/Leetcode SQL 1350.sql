@@ -1,6 +1,6 @@
 
-DROP DATABASE IF EXISTS sql_leetcode;
-CREATE DATABASE IF NOT EXISTS sql_leetcode;
+#DROP DATABASE IF EXISTS sql_leetcode;
+#CREATE DATABASE IF NOT EXISTS sql_leetcode;
 USE sql_leetcode;
 
 #DROP TABLE IF EXISTS Departments_1350;
